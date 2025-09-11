@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/propty-app/static/js/main.6a4a036f.js",
+    "index.html": "/propty-app/index.html",
+    "main.6a4a036f.js.map": "/propty-app/static/js/main.6a4a036f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6a4a036f.js"
+  ]
+}
